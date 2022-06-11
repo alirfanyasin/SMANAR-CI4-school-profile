@@ -1,0 +1,22 @@
+.row {
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.card .card-body .form-group:nth-child(1) {
+    text-align: center;
+}
+
+.card .card-body .form-group:nth-child(1) img {
+    margin: auto;
+}
+
+.card .card-body .form-group:nth-child(1) h2 {
+    font-weight: 700;
+    margin-bottom: -10px;
+}
+
+.form-control:focus {
+    border: 1px solid #3fa400;
+    box-shadow: none;
+}
